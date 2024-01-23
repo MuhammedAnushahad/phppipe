@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! INCIEM pipeline!!</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! INCIEM !!</p>'; ?> 
  </body>
 </html>
